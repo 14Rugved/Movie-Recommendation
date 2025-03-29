@@ -48,16 +48,8 @@ streamlit run app.py
 ⚡ Deployment
 
 This app has been successfully deployed. You can access it at:
-🔗 Live App
+🔗[ Live App](https://movie-recommendation-gwzqv2kl2mvftsswkxldqf.streamlit.app/)
 
-📂 Project Structure
-
-.
-├── app.py             # Main application script
-├── movies.pkl         # Preprocessed movies dataset
-├── similarity.pkl     # Precomputed similarity matrix
-├── requirements.txt   # Required dependencies
-├── README.md          # Documentation
 
 🎯 How It Works
 
@@ -69,4 +61,4 @@ The system fetches 5 similar movies and displays posters.
 
 If any error occurs, meaningful messages are shown.
 
-app deployment : https://movie-recommendation-gwzqv2kl2mvftsswkxldqf.streamlit.app/
+
